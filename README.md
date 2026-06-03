@@ -16,9 +16,9 @@
 
 ## 📸 Interfejs Aplikacji (UI)
 
-| **Ekran Główny** | **Sesja Rozciągania (Flow)** | **Statystyki i Odznak** |
+| **Ekran Główny** | **Sesja Rozciągania (Flow)** | **Statystyki i Odznaki** |
 | :---: | :---: | :---: |
-| <img src="URL_DO_SCREENSHOTU_8.png" width="220" alt="Ekran Główny" /> | <img src="URL_DO_SCREENSHOTU_9.png" width="220" alt="Sesja Flow" /> | <img src="URL_DO_SCREENSHOTU_10.png" width="220" alt="Statystyki" /> |
+| <img src="https://github.com/user-attachments/assets/c08adef6-4323-41a5-9b96-7c10872016b4" width="220" alt="Ekran Główny" /> | <img src="https://github.com/user-attachments/assets/2bddb144-e607-4feb-8aa8-22295d697f0c" width="220" alt="Sesja Flow" /> | <img src="https://github.com/user-attachments/assets/f3b4071b-8c67-45b2-9263-88f9ef89c756" width="220" alt="Statystyki" /> |
 
 > 💡 Aby zobaczyć interfejs w akcji bez pobierania kodu, powyżej umieszczono zrzuty ekranu prosto z symulatora iOS.
 
