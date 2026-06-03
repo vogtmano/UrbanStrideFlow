@@ -17,7 +17,9 @@
 ## 📸 Interfejs Aplikacji (UI)
 | Ekran Główny | Sesja Rozciągania (Flow) | Statystyki i Odznaki |
 | :---: | :---: | :---: |
-| ![Ekran Główny](https://via.placeholder.com/220x440.png?text=UrbanStride+Main) | ![Sesja Flow](https://via.placeholder.com/220x440.png?text=Stretch+Session) | ![Statystyki](https://via.placeholder.com/220x440.png?text=Health+Stats) |
+| ![Ekran Główny]<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-03 at 12 44 34" src="https://github.com/user-attachments/assets/4109dab2-e88f-46ee-a705-43764c3f312d" />
+| ![Sesja Flow]<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-03 at 12 44 14" src="https://github.com/user-attachments/assets/b6141029-69af-468d-a8e7-7495000737ae" />
+ | ![Statystyki] <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-03 at 12 43 43" src="https://github.com/user-attachments/assets/01a54348-14f1-4276-b6bd-e3f7fa9b210d" />|
 
 > 💡 **Wskazówka dla Prowadzącego:** Aby zobaczyć interfejs w akcji bez pobierania kodu, powyżej umieszczono zrzuty ekranu prosto z symulatora iOS.
 
